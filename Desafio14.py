@@ -1,0 +1,1 @@
+# foi exercio de transformar graus C em graus F, onde ele pegou a formula, bem facil
